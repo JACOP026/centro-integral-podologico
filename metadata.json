@@ -1,0 +1,6 @@
+{
+  "name": "Agenda de Podología",
+  "description": "Una agenda interactiva con forma de libreta para reservar y gestionar turnos de podología, adaptada para pacientes y profesionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
